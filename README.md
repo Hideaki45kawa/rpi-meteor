@@ -1,3 +1,3 @@
 # rpi-meteor
+create HRO(Ham Radio Observation) systems.
 
-create RaspberryPi 3 diskimage
